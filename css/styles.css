@@ -1,0 +1,157 @@
+
+#title{
+  background-color: #5A8F7B;
+  color: white;
+
+}
+.container-fluid{
+  padding: 3% 15% 5%;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+
+/* navbar */
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px 0 18px;
+
+}
+.nav-link{
+  font-family: 'Montserrat-Light', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+.download-button{
+margin: 5% 3% 5% 0;
+}
+.photo{
+  width: 60%;
+  transform: rotate(25deg);
+
+  margin-bottom: -50%;
+}
+.positioning{
+  position: relative;
+  right:-5%;
+}
+/* feat */
+#features{
+  text-align: center;
+
+  padding: 6% 15% ;
+background-color: white;
+position: relative;
+z-index: 1;
+
+
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+font-size: 2rem;
+}
+p{
+  color: grey;
+  font-size: 1rem;
+}
+.icon{
+  color: #9CB4CC;
+  margin-bottom:   1.5rem;
+}
+.icon:hover{
+  transition: 0.5s;
+  color: #5A8F7B;
+}
+/*testi*/
+#testimonials{
+  text-align: center;
+  background-color: #9CB4CC;
+  color: #fff;
+}
+h2{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #9CB4CC;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+.pricing-col{
+  padding: 3% 2%;
+}
+/*
+@media (max-width: 1000px) {
+  #title{
+    text-align: center;
+  }
+  .photo{
+    position: static;
+    transform: rotate(0);
+  }
+}
+ */
+#cta{
+  text-align: center;
+  background-color: #5A8F7B;
+  padding: 7% 13%;
+  line-height: 1rem;
+}
+#footer{
+  background-color: white;
+  text-align: center;
+  padding: 4%;
+}
+.foot-p{
+  color: #5A8F7B;
+  padding-top:  1.5rem;
+}
+.eren-link{
+  color: #5A8F7B;
+}
+
+.a-i{
+  color: #5A8F7B;
+  padding: 3% 4% 6% 4%;
+
+}
+.a-i:hover{
+  color: #9CB4CC;
+}
